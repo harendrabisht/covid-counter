@@ -1,4 +1,4 @@
-# Covid Case Dashboard
+# Covid-19 Case Dashboard
 
 A new Flutter application.
 
