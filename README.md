@@ -1,4 +1,4 @@
-# harendra
+# Covid Case Dashboard
 
 A new Flutter application.
 
